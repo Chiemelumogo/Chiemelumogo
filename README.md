@@ -10,7 +10,7 @@ Tools I use regularly:
 - **Power BI & Tableau**
 - **Python** (beginner)
 
-💡 I'm constantly learning and applying new techniques to better understand how data can drive performance, especially in business, finance, and social impact contexts.
+I'm constantly learning and applying new techniques to better understand how data can drive performance, especially in business, finance, and social impact contexts.
 
 ---
 
