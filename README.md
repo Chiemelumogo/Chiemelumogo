@@ -17,5 +17,7 @@ I'm constantly learning and applying new techniques to better understand how dat
 
 🔗 Let’s connect – I’m open to collaborations
 
+Check out my Medium page for more [Amadi Chiemelumogo](https://medium.com/@Chiemelumogo)
+
 You can reach me via my personal email chiemexzy083@gmail.com
 
